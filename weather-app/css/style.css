@@ -1,0 +1,31 @@
+body{
+background-color: white;
+}
+
+.city, .temp, .line{
+ 
+  font-family: 'Josefin Sans',     sans-serif;
+  
+  color: grey;
+  
+}
+
+h1 {
+  display:inline-block;
+  
+}
+
+
+i {
+  width: 60%;
+  margin-top: 40%;
+}
+
+button{
+  display:block;
+}
+
+div {
+  text-align: center;
+}
+
